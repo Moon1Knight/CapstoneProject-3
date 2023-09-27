@@ -1,6 +1,8 @@
 # capstone_project_3
 Resume-Builder
-# Clone the Repositry and do the following steps in terminal as  we need to install the dependencies on our local system to run the application
+Clone the Repositry and do the following steps in terminal as  we need to install the dependencies on our local system to run the application
+
+
 Step-1 :  npm install 
 
 
