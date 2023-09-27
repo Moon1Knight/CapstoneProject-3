@@ -6,7 +6,7 @@ Clone the Repositry and do the following steps in terminal as  we need to instal
 Step-1 :  npm install 
 
 
-Step 2 :  npm run clien-install 
+Step 2 :  npm run client-install 
               or
           npm install  --prefic client  --force 
 
